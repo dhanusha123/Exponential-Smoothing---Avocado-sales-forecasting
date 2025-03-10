@@ -20,6 +20,7 @@ This project focuses on forecasting **avocado sales demand in the United States*
 
 2. **Modeling Technique**  
    - **Triple Exponential Smoothing (Holt-Winters)**: Used to capture trends and seasonal variations for more accurate sales forecasting.
+   - ** Used alpha, Beta, and Gema parameters for this analysis with an R squared of 84%. 
 
 3. **Analysis and Interpretation**  
    - Generated forecasting results and evaluated model performance.  
