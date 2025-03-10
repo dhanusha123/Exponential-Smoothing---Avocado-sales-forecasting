@@ -24,7 +24,6 @@ This project focuses on forecasting **avocado sales demand in the United States*
    - Visualized outcomes to understand trends and patterns in avocado demand.  
    - Provided strategic recommendations based on forecasted demand insights.
 
-
 ---
 
 ## 📈 Key Results
@@ -36,7 +35,7 @@ Here is the forecast chart for avocado sales:
 ## 📊 Forecast Visualization
 
 Here is the forecast chart for avocado sales:
-![Avocado Sales Forecast]([https://github.com/your-username/repo-name/blob/main/forecast_chart.png?raw=true](https://github.com/dhanusha123/Exponential-Smoothing---Avocado-sales-forecasting/blob/main/Demand%20Vs%20Forecast.png?raw=true))
+![Avocado Sales Forecast](Demand Vs Forecast.png)
 
 
 ---
