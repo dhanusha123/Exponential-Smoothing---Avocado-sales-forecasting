@@ -24,25 +24,6 @@ This project focuses on forecasting **avocado sales demand in the United States*
    - Visualized outcomes to understand trends and patterns in avocado demand.  
    - Provided strategic recommendations based on forecasted demand insights.
 
----
-
-## 🗂️ Project Structure
-```
-Avocado-Sales-Forecasting-Project/
-├── data/
-│   └── raw_data.xlsx           # Original avocado sales dataset.
-├── analysis/
-│   ├── final_output.xlsx       # Final forecasting results.
-│   └── triple_exponential_smoothing.xlsx  # Analysis using Holt-Winters method.
-├── documentation/
-│   ├── instructions.txt        # Guidelines for the forecasting process.
-│   ├── ground_rules.txt        # Key assumptions and rules followed.
-│   └── data_source.txt         # Details about the data origin.
-├── results/
-│   └── screenshots/            # Placeholder for any visual results (if required).
-├── README.md                   # Project overview and details.
-
-```
 
 ---
 
