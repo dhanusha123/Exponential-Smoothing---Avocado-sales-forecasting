@@ -1,3 +1,5 @@
+![Avocado image](https://github.com/dhanusha123/Exponential-Smoothing---Avocado-sales-forecasting/blob/main/Avocado.jpg?raw=true)
+
 # 🥑 Exponential Smoothing - Avocado Sales Demand Forecasting Project (U.S. Market)
 
 This project focuses on forecasting **avocado sales demand in the United States** using advanced **time series analysis** techniques. The objective is to analyze historical sales data and apply the **Triple Exponential Smoothing (Holt-Winters)** method in **Microsoft Excel** to predict future demand trends. This forecasting model helps understand seasonal variations and aids in strategic decision-making for inventory and supply chain management.
