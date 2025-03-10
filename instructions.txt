@@ -1,0 +1,29 @@
+# Instructions for Avocado Sales Demand Forecasting Project
+
+This project involves forecasting avocado sales demand in the United States using the Triple Exponential Smoothing (Holt-Winters) method in Microsoft Excel.
+
+## Steps Followed:
+
+1. **Data Collection**  
+   - Collected historical avocado sales data from reliable sources.  
+
+2. **Data Cleaning**  
+   - Checked for missing or inconsistent data.  
+   - Formatted the data for analysis, ensuring accurate date and sales entries.
+
+3. **Forecasting Approach**  
+   - Applied Triple Exponential Smoothing to identify trends and seasonal patterns.  
+   - Used Microsoft Excel's built-in formulas to apply the forecasting model.
+
+4. **Analysis**  
+   - Evaluated the forecast accuracy by comparing historical and predicted values.  
+   - Visualized the results for better interpretation.
+
+5. **Final Output**  
+   - Compiled the results into a structured Excel file for easy understanding.
+
+## How to Use the Files:
+
+- Open `raw_data.xlsx` for the initial dataset.  
+- Review `triple_exponential_smoothing.xlsx` to understand the forecasting process.  
+- Analyze `final_output.xlsx` for the final forecast results.

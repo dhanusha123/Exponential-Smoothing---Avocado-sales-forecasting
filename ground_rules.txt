@@ -1,0 +1,21 @@
+# Ground Rules for Avocado Sales Demand Forecasting
+
+The following assumptions and considerations were applied during the analysis:
+
+1. **Data Consistency**  
+   - Assumed all data points represent consistent and accurate weekly avocado sales figures.
+
+2. **Seasonality Consideration**  
+   - Recognized seasonal trends (e.g., higher demand in summer months) in the forecasting model.
+
+3. **No External Influences**  
+   - The forecast assumes no external market shocks, such as price fluctuations or supply chain issues.
+
+4. **Time Frame**  
+   - The forecasting was conducted based on the available historical dataset timeframe.
+
+5. **Model Limitations**  
+   - The Triple Exponential Smoothing method is effective for short-term forecasts but may have limitations for long-term predictions.
+
+6. **Excel Constraints**  
+   - The entire analysis was conducted using Excel, with no external statistical tools.
