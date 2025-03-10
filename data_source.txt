@@ -1,13 +1,13 @@
-# Data Source for Avocado Sales Forecasting
+Data Source for Avocado Sales Forecasting
 
 The historical data used for this project was sourced from:
 
-- **Source**: [Market Reports]  
-- **Geographical Focus**: United States  
-- **Timeframe**: [January 2021 to May 2024]  
-- **Key Variables**:  
+- Source: [Market Reports]  
+- Geographical Focus: United States  
+- Timeframe: [January 2021 to May 2024]  
+- Key Variables:  
    - Date  
    - Weekly Sales Volume  
 
-**Note**: The data was assumed to be accurate and complete at the time of collection. 
+Note: The data was assumed to be accurate and complete at the time of collection. 
 No adjustments were made for inflation, price variations, or external factors.
