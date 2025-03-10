@@ -32,10 +32,7 @@ This project focuses on forecasting **avocado sales demand in the United States*
 - Recommended strategic actions for inventory management and demand forecasting.
 
 Here is the forecast chart for avocado sales:
-## 📊 Forecast Visualization
-
-Here is the forecast chart for avocado sales:
-![Avocado Sales Forecast](Demand Vs Forecast.png)
+(https://github.com/dhanusha123/Exponential-Smoothing---Avocado-sales-forecasting/blob/main/Demand%20Vs%20Forecast.png?raw=true)
 
 
 ---
