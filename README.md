@@ -32,6 +32,10 @@ This project focuses on forecasting **avocado sales demand in the United States*
 - Identified seasonal trends and demand patterns, providing actionable insights for supply chain planning.  
 - Recommended strategic actions for inventory management and demand forecasting.
 
+Here is the forecast chart for avocado sales:
+
+![Avocado Sales Forecast](results/screenshots/Demand Vs Forecast.png)
+
 ---
 
 ## 🛠️ Tools Used
