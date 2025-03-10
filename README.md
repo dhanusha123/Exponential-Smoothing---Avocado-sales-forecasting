@@ -34,7 +34,7 @@ This project focuses on forecasting **avocado sales demand in the United States*
 
 Here is the forecast chart for avocado sales:
 
-![Avocado Sales Forecast](results/screenshots/Demand Vs Forecast.png)
+![Avocado Sales Forecast](Demand Vs Forecast.png) 
 
 ---
 
