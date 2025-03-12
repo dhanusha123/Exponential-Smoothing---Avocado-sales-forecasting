@@ -31,7 +31,7 @@ This project focuses on forecasting **avocado sales demand in the United States*
 
 ## 📈 Key Results
 - Developed accurate forecasts for **avocado sales demand** in the U.S. using the **Triple Exponential Smoothing** method.  
-- Identified seasonal trends and demand patterns, providing actionable insights for supply chain planning.  
+- Identified seasonal trends and demand patterns, providing actionable insights for supply chain planning.   
 - Recommended strategic actions for inventory management and demand forecasting.
 
 Here is the forecast chart for avocado sales:
