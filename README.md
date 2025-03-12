@@ -9,7 +9,7 @@ This project focuses on forecasting **avocado sales demand in the United States*
 ## 🚀 Key Objectives
 - Analyze historical **avocado sales** data in the U.S. market.  
 - Apply **Triple Exponential Smoothing** to forecast future sales demand.  
-- Interpret seasonal trends and demand patterns to enhance inventory and business decisions.
+- Interpret seasonal trends and demand patterns to enhance inventory and business decisions. 
 
 ---
 
